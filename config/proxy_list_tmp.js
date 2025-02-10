@@ -1,11 +1,13 @@
 /**
- * THIS IS JUST EXAMPLE DON'T FILL YOUR PROXY LIST HERE
- * Example : 
- * export const proxyList = [
-    "http://proxyUser:proxyPass@proxyHost:proxyPort",
-    "http://proxyUser:proxyPass@proxyHost:proxyPort",
-    "http://proxyUser:proxyPass@proxyHost:proxyPort",
-  ];
+ * Proxy list configuration
+ * Replace with your actual proxy details.
+ * Format: "http://proxyUser:proxyPass@proxyHost:proxyPort"
  */
 
-export const proxyList = [];
+export const proxyList = [
+    "YOUR_PROXY",
+    "YOUR_PROXY",
+    "YOUR_PROXY",
+    "YOUR_PROXY",
+    "YOUR_PROXY"
+];
