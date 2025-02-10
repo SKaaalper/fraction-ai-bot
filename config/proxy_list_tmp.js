@@ -4,10 +4,4 @@
  * Format: "http://proxyUser:proxyPass@proxyHost:proxyPort"
  */
 
-export const proxyList = [
-    "YOUR_PROXY",
-    "YOUR_PROXY",
-    "YOUR_PROXY",
-    "YOUR_PROXY",
-    "YOUR_PROXY"
-];
+export const proxyList = [];
