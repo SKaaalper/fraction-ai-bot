@@ -1,11 +1,8 @@
 /**
  * Private key list file
- * write your private key here like this
- * export const privateKey = [
- *   "PK1",
- *   "PK2",
- *   "PK3",
- * ];
+ * Write your private key inside the array.
  */
 
-export const privateKey = [];
+export const privateKey = [
+    "YOUR_PRIVATE_KEY"
+];
