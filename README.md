@@ -57,8 +57,7 @@ You'll need a significant amount of $ETH on Sepolia, as this testnet involves ba
 ### Linux
 1. clone project repo
    ```
-   git clone https://github.com/Widiskel/fraction-ai-bot.git 
-   cd fraction-ai-bot
+   git clone https://github.com/SKaaalper/fraction-ai-bot.git && cd fraction-ai-bot
    ```
 2. run
    ```
